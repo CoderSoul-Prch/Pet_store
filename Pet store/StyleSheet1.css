@@ -1,0 +1,77 @@
+﻿body {
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+}
+
+.wf1 {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    text-align: center;
+    float: left;
+    box-shadow: 25px 10px 6px -6px #777;
+}
+
+.wf2 {
+    background-color: #F08080;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    text-align: center;
+    float: left;
+    box-shadow: 10px 10px 6px -6px #777;
+}
+
+
+
+.box {
+    padding-left: 150px;
+    box-shadow: 0 10px 6px -6px #777;
+    margin-top : 50px;
+}
+
+
+.img {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    object-position: center -30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.H1{
+    color : white;
+    height: 31px;
+    width: 385px;
+}
+
+
+p{
+    color :black;
+}
+
+.table, tr, td {
+    border: none;
+}
+
+.form{
+    margin : auto;
+}
+
+.txtbox, .email, .mno, .savebtn,.password {
+    padding: 0 0 15px 0;
+    text-align: inherit;
+    position: absolute fixed;
+}
+
+.usernameTextBox1, .emailTextBox1, .mnoTextBox1,.passwordTextBox1  {
+    border-radius: 8px;
+    width: 200px;
+}
+
+

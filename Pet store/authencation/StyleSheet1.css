@@ -1,0 +1,21 @@
+﻿body {
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+}
+
+
+.box {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 400px;
+    box-shadow: 15px 10px 6px -6px #777;
+}
+
+
+.username, .password {
+    padding: 0 0 10px 0;
+}
